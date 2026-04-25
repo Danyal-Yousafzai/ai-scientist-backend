@@ -2,5 +2,6 @@ fastapi
 uvicorn
 pydantic
 tavily-python
-groq
 python-dotenv
+langchain-groq
+langchain-core
