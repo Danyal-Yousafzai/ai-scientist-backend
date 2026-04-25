@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+tavily-python
+groq
+python-dotenv
